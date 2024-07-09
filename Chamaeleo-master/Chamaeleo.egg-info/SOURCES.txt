@@ -1,0 +1,50 @@
+LICENSE
+README.md
+setup.py
+./__init__.py
+./data/binaries/DNA Fountain Input Files.tar.gz
+./data/binaries/Microsoft Winmine.exe
+./data/books/A Tale of Two Cities.pdf
+./data/books/The Wandering Earth.pdf
+./data/musics/For Elise.wma
+./data/musics/Summer.mp3
+./data/pictures/Mona Lisa.jpg
+./data/pictures/United Nations Flag.bmp
+./data/videos/Exiting the Factory.flv
+./data/videos/I have a Dream.mp4
+./examples/__init__.py
+./examples/demo_case_basic_feature.py
+./examples/demo_case_best_choice.py
+./examples/demo_case_combined_transcode.py
+./examples/demo_case_individual_transcode.py
+./examples/demo_case_robustness.py
+./examples/log_files/robustness.logs
+./examples/log_files/seq_features.logs
+./methods/__init__.py
+./methods/default.py
+./methods/ecc.py
+./methods/fixed.py
+./methods/flowed.py
+./methods/inherent.py
+./utils/__init__.py
+./utils/data_handle.py
+./utils/indexer.py
+./utils/monitor.py
+./utils/pipelines.py
+./utils/screen.py
+Chamaeleo.egg-info/PKG-INFO
+Chamaeleo.egg-info/SOURCES.txt
+Chamaeleo.egg-info/dependency_links.txt
+Chamaeleo.egg-info/requires.txt
+Chamaeleo.egg-info/top_level.txt
+test/test_ecc_hamming.py
+test/test_ecc_reed_solomon.py
+test/test_indexer.py
+test/test_screen.py
+test/test_trans_base.py
+test/test_trans_blawat.py
+test/test_trans_church.py
+test/test_trans_dna_fountain.py
+test/test_trans_goldman.py
+test/test_trans_grass.py
+test/test_trans_yin_yang_code.py

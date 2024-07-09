@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: Chamaeleo
+Version: 1.34
+Summary: library for the well accepted coding schemes of DNA storage
+Home-page: https://github.com/ntpz870817/Chamaeleo
+Author: Zhi PING, Hao-Ling ZHANG, Sha (Joe) ZHU
+Author-email: zhanghaoling@genomics.cn
+License: MIT
+Keywords: DNA Storage,Coding Scheme
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: reedsolo
+Requires-Dist: terminaltables
+
+Chamaeleo is currently the only collection focused on different codec methods for DNA storage. This kit is mainly developed and operated by BGI-Research (Shenzhen). It provides you a chance to use the classical coding schemes to save files into DNA sequences or load them from DNA sequences.
